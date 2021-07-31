@@ -8,6 +8,6 @@ Dev Challenges
 # Screenshots
 <center>
 <img src="images/image1.JPG" >
-<img src="images/image2.JPG" >
-<img src="images/image3.JPG" >
+<img src="images/image2.JPG" width="119px" height="423px">
+<img src="images/image3.JPG" width="119px" height="423px" >
 </center>
